@@ -1,2 +1,2 @@
 # Templates
-Contains solutions of small issues; mainly for Ubuntu OS.
+Contains solutions to small issues; mainly for Ubuntu OS.
